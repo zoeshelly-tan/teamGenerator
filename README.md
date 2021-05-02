@@ -1,4 +1,4 @@
-# Hendrix
+# Team Generator 
 ![license](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Table of Content
 * [Project Links](#Project-Links)
