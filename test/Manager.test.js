@@ -13,7 +13,7 @@ test('create a new manager', () => {
 //testing getRole function 
 test('testing getRole function', () => {
     const manager = new Manager('shelly', '22', 'shelly@email.com', '232');
-    expect(manager.getRole()).toEqual('manager');
+    expect(manager.getRole()).toEqual('Manager');
 })
 
 test('testing getOfficeNumber function', () => {
